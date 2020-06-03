@@ -1,6 +1,6 @@
 I found this antiquated PHP program during my freshman year of high school that added the content I wanted to Minecraft. I brought it up to date to work and maintained it up until this point. I went inactive and forked it to my personal account for safekeeping.  
 
-#Original Readme
+# Original Readme
 
 This is a Fork of the original PureEntities plugin which has become inactive; RevivalPMMP is now updating and maintaining it, so  you can have smart mobs on your server! (At least until Pocketmine implements them)
 
